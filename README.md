@@ -1,2 +1,3 @@
-# hello-world
-hello everybody, how are ya?
+# lockscreen react
+
+crude attempt at making a simple lockscreen using react.
